@@ -76,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599074045492</updated>
       <workItem from="1599074109735" duration="2372000" />
+      <workItem from="1599105032918" duration="801000" />
     </task>
     <servers />
   </component>
@@ -94,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
