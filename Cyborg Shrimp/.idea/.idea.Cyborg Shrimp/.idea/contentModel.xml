@@ -7,7 +7,10 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Script" t="Include">
+          <e p="CharacterMover.cs" t="Include" />
           <e p="MoverScript.cs" t="Include" />
+          <e p="PlayerHealth.cs" t="Include" />
+          <e p="PlayerScore.cs" t="Include" />
         </e>
       </e>
       <e p="Cyborg Shrimp.sln" t="IncludeFlat" />

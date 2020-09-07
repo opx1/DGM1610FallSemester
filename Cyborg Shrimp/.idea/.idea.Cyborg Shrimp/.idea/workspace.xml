@@ -32,6 +32,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Script/MoverScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayerScore.cs" />
       </list>
     </option>
   </component>
@@ -79,6 +82,7 @@
       <workItem from="1599105032918" duration="994000" />
       <workItem from="1599165485307" duration="93000" />
       <workItem from="1599165610660" duration="2891000" />
+      <workItem from="1599488136582" duration="335000" />
     </task>
     <servers />
   </component>
