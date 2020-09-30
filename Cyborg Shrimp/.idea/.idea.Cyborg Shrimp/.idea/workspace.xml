@@ -39,11 +39,11 @@
         <option value="$PROJECT_DIR$/Assets/Script/PlayerHealth.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PlayerScore.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/MoverScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/HealthPowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/AmmoPowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ChargePowerUP.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/MoverScript.cs" />
       </list>
     </option>
   </component>
@@ -93,6 +93,7 @@
       <workItem from="1599165610660" duration="2891000" />
       <workItem from="1599488136582" duration="335000" />
       <workItem from="1600830593664" duration="2083000" />
+      <workItem from="1601427750440" duration="631000" />
     </task>
     <servers />
   </component>
