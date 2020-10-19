@@ -30,6 +30,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ChargePowerUP.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -44,6 +45,7 @@
         <option value="$PROJECT_DIR$/Assets/Script/PowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ChargePowerUP.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/MoverScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -94,6 +96,7 @@
       <workItem from="1599488136582" duration="335000" />
       <workItem from="1600830593664" duration="2083000" />
       <workItem from="1601427750440" duration="631000" />
+      <workItem from="1602621638833" duration="288000" />
     </task>
     <servers />
   </component>
