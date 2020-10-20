@@ -1,22 +1,32 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEditor.VersionControl;
+﻿using System;
 using UnityEngine;
 
 public class CharacterMover : MonoBehaviour
 {
-    public string password = "Password";
-    public string playerName = "Player 1:";
+    public CharacterController controller;
     
-    // Start is called before the first frame update
-    void Start()
+    public float moveSpeed = 3f, gravity = -9.81f, jumpForce = 30f;
+    private Vector3 moveDirection;
+    private float yDirection;
+    private void Update()
     {
         
-    }
+        var moveSpeedInput = moveSpeed * Input.GetAxis("Horizontal");
+        
+        moveDirection.Set(moveSpeedInput,yDirection,0);
 
-    // Update is called once per frame
-    void Update()
-    {
+        yDirection += gravity*Time.deltaTime;
+
+        if (controller.isGrounded && moveDirection.y <0)
+        {
+            yDirection = -1f;
+        }
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            yDirection = jumpForce;
+        } 
         
+        controller.Move(moveDirection * Time.deltaTime);
     }
 }

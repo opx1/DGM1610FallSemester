@@ -5024,9 +5024,10 @@ GameObject:
   - component: {fileID: 1037439109}
   - component: {fileID: 1037439108}
   - component: {fileID: 1037439107}
+  - component: {fileID: 1037439112}
   - component: {fileID: 1037439111}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5040,7 +5041,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1037439106}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -5115,10 +5116,29 @@ MonoBehaviour:
   m_GameObject: {fileID: 1037439106}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa661891d27c92f4fbc73f3fa81e924b, type: 3}
+  m_Script: {fileID: 11500000, guid: ed07bb022f7f6854c838adb260665686, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  controller: {fileID: 1037439112}
+  moveDirection: {x: 0, y: 0, z: 0}
+--- !u!143 &1037439112
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1037439106}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 1
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1068698832
 GameObject:
   m_ObjectHideFlags: 0
