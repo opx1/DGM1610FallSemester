@@ -4,12 +4,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class UnityEvents : MonoBehaviour
+public class TriggerEventsBehavior : MonoBehaviour
 {
-   public UnityEvent myUnityEvent;
+   public UnityEvent triggerEnterEvent;
 
    private void OnTriggerEnter(Collider other)
    {
-      myUnityEvent.Invoke();
+      triggerEnterEvent.Invoke();
    }
 }

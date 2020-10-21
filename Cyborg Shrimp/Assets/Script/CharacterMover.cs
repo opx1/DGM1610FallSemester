@@ -1,13 +1,21 @@
 ﻿using System;
 using UnityEngine;
 
+[RequireComponent(typeof(CharacterController))]
+
 public class CharacterMover : MonoBehaviour
 {
-    public CharacterController controller;
+    private CharacterController controller;
     
     public float moveSpeed = 3f, gravity = -9.81f, jumpForce = 30f;
     private Vector3 moveDirection;
     private float yDirection;
+
+    private void Start()
+    {
+        controller = GetComponent<CharacterController>();
+    }
+
     private void Update()
     {
         

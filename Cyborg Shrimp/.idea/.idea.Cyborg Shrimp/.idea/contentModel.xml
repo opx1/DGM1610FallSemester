@@ -6,17 +6,6 @@
     <e p="C:\Users\ferri\Documents\GitKraken\DGM1610FallSemester\Cyborg Shrimp" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Animals" t="Include">
-          <e p="Animal.cs" t="Include" />
-          <e p="Dog.cs" t="Include" />
-          <e p="Mammal.cs" t="Include" />
-        </e>
-        <e p="DND" t="Include">
-          <e p="EldrichKnight.cs" t="Include" />
-          <e p="Fighter.cs" t="Include" />
-          <e p="Player.cs" t="Include" />
-          <e p="Sorcerer.cs" t="Include" />
-        </e>
         <e p="Script" t="Include">
           <e p="AmmoPowerUp.cs" t="Include" />
           <e p="ApplyForces.cs" t="Include" />
@@ -29,8 +18,10 @@
           <e p="MoverScript.cs" t="Include" />
           <e p="PlayerHealth.cs" t="Include" />
           <e p="PlayerScore.cs" t="Include" />
-          <e p="PowerUp.cs" t="Include" />
-          <e p="UnityEvents.cs" t="Include" />
+          <e p="TriggerEventsBehavior.cs" t="Include" />
+        </e>
+        <e p="ScriptableObjects" t="Include">
+          <e p="IntData.cs" t="Include" />
         </e>
       </e>
       <e p="Cyborg Shrimp.sln" t="IncludeFlat" />
