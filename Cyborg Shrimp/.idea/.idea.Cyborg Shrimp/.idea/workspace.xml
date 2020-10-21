@@ -29,12 +29,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Script/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ChargePowerUP.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animals/Dog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DND/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DND/EldrichKnight.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Instancer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/UnityEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DND/Sorcerer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DND/Fighter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ChargePowerUP.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,6 +57,13 @@
         <option value="$PROJECT_DIR$/Assets/Script/ApplyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Instancer.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Destroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Animal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animals/Mammal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animals/Dog.cs" />
+        <option value="$PROJECT_DIR$/Assets/DND/Sorcerer.cs" />
+        <option value="$PROJECT_DIR$/Assets/DND/EldrichKnight.cs" />
+        <option value="$PROJECT_DIR$/Assets/DND/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/DND/Fighter.cs" />
       </list>
     </option>
   </component>
@@ -105,7 +117,8 @@
       <workItem from="1602621638833" duration="288000" />
       <workItem from="1603134724181" duration="2767000" />
       <workItem from="1603216808884" duration="5692000" />
-      <workItem from="1603240379266" duration="2642000" />
+      <workItem from="1603240379266" duration="2802000" />
+      <workItem from="1603292633814" duration="3481000" />
     </task>
     <servers />
   </component>
