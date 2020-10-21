@@ -8,10 +8,13 @@
       <e p="Assets" t="Include">
         <e p="Script" t="Include">
           <e p="AmmoPowerUp.cs" t="Include" />
+          <e p="ApplyForces.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="ChargePowerUP.cs" t="Include" />
+          <e p="Destroyer.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="HealthPowerUp.cs" t="Include" />
+          <e p="Instancer.cs" t="Include" />
           <e p="MoverScript.cs" t="Include" />
           <e p="PlayerHealth.cs" t="Include" />
           <e p="PlayerScore.cs" t="Include" />

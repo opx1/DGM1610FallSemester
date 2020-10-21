@@ -32,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Script/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ChargePowerUP.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Instancer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/UnityEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -48,6 +49,9 @@
         <option value="$PROJECT_DIR$/Assets/Script/UnityEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ApplyForces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Instancer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Destroyer.cs" />
       </list>
     </option>
   </component>
@@ -100,7 +104,8 @@
       <workItem from="1601427750440" duration="631000" />
       <workItem from="1602621638833" duration="288000" />
       <workItem from="1603134724181" duration="2767000" />
-      <workItem from="1603216808884" duration="5691000" />
+      <workItem from="1603216808884" duration="5692000" />
+      <workItem from="1603240379266" duration="2642000" />
     </task>
     <servers />
   </component>
