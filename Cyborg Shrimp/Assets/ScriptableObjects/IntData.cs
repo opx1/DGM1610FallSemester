@@ -12,4 +12,5 @@ public class IntData : ScriptableObject
         value += number;
         Debug.Log(value + " " + this.name);
     }
+ 
 }
