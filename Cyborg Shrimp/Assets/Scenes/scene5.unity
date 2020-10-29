@@ -551,7 +551,7 @@ GameObject:
   - component: {fileID: 1043320563}
   - component: {fileID: 1043320562}
   - component: {fileID: 1043320561}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -752,7 +752,7 @@ GameObject:
   - component: {fileID: 1272036836}
   - component: {fileID: 1272036835}
   - component: {fileID: 1272036834}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Dialouge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -956,7 +956,7 @@ GameObject:
   - component: {fileID: 1653517264}
   - component: {fileID: 1653517263}
   - component: {fileID: 1653517262}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Coin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1175,7 +1175,7 @@ GameObject:
   - component: {fileID: 1900138168}
   - component: {fileID: 1900138167}
   - component: {fileID: 1900138166}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1269,7 +1269,7 @@ GameObject:
   - component: {fileID: 1986057808}
   - component: {fileID: 1986057807}
   - component: {fileID: 1986057806}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: HealthDamager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1323,6 +1323,17 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: cc7b04d3b59d7d3459d125abaeea79df, type: 2}
+        m_MethodName: UpdateValue
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!65 &1986057807
 BoxCollider:

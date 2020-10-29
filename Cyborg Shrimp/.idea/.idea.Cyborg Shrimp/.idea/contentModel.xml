@@ -11,6 +11,7 @@
           <e p="ApplyForces.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="ChargePowerUP.cs" t="Include" />
+          <e p="CreateWithCode.cs" t="Include" />
           <e p="Destroyer.cs" t="Include" />
           <e p="HealthPowerUp.cs" t="Include" />
           <e p="ImageBehavior.cs" t="Include" />
