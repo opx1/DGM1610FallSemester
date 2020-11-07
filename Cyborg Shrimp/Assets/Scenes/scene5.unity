@@ -570,7 +570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed07bb022f7f6854c838adb260665686, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 3
+  moveSpeed: 5
   gravity: -9.81
   jumpForce: 8
 --- !u!143 &1043320562
@@ -774,8 +774,8 @@ MonoBehaviour:
   triggerEnterEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: 02a0e6e47e5d0854e9b7ef945a5b6261, type: 2}
-        m_MethodName: DisplayText
+      - m_Target: {fileID: 11400000, guid: fe81275835b9196449a8174d4261739f, type: 2}
+        m_MethodName: UpdateText
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1829829532}

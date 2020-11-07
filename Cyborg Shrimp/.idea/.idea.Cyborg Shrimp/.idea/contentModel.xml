@@ -11,7 +11,6 @@
           <e p="ApplyForces.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="ChargePowerUP.cs" t="Include" />
-          <e p="CreateWithCode.cs" t="Include" />
           <e p="Destroyer.cs" t="Include" />
           <e p="HealthPowerUp.cs" t="Include" />
           <e p="ImageBehavior.cs" t="Include" />
@@ -27,6 +26,7 @@
           <e p="FloatData.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="StringData.cs" t="Include" />
+          <e p="StringListData.cs" t="Include" />
         </e>
       </e>
       <e p="Cyborg Shrimp.sln" t="IncludeFlat" />
