@@ -70,6 +70,8 @@
         <option value="$PROJECT_DIR$/Assets/Script/CreateWithCode.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/BoolData.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/StringListData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObjects/GameSwitch.cs" />
       </list>
     </option>
   </component>
@@ -129,7 +131,8 @@
       <workItem from="1603393506920" duration="1857000" />
       <workItem from="1603810101654" duration="2904000" />
       <workItem from="1603985200502" duration="1759000" />
-      <workItem from="1604782463665" duration="631000" />
+      <workItem from="1604782463665" duration="1329000" />
+      <workItem from="1605044722531" duration="1655000" />
     </task>
     <servers />
   </component>
