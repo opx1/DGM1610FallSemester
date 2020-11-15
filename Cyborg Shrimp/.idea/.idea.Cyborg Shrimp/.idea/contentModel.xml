@@ -12,6 +12,7 @@
           <e p="ApplyForces.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="ChargePowerUP.cs" t="Include" />
+          <e p="Collections.cs" t="Include" />
           <e p="Destroyer.cs" t="Include" />
           <e p="HealthPowerUp.cs" t="Include" />
           <e p="ImageBehavior.cs" t="Include" />
@@ -24,6 +25,7 @@
         </e>
         <e p="ScriptableObjects" t="Include">
           <e p="BoolData.cs" t="Include" />
+          <e p="Collectible.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameSwitch.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
