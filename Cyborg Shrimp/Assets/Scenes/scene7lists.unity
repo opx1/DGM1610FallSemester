@@ -209,7 +209,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3865222}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.09144154, y: 1.6194149, z: 4.2875137}
+  m_LocalPosition: {x: 10.3, y: 1.6194149, z: 4.2875137}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -303,7 +303,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 83177487}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.09144154, y: 1.6194149, z: 4.2875137}
+  m_LocalPosition: {x: 10.3, y: 1.6194149, z: 4.2875137}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -396,7 +396,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 679221526}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.09144154, y: 1.6194149, z: 4.2875137}
+  m_LocalPosition: {x: 10.3, y: 1.6194149, z: 4.2875137}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -485,6 +485,53 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &857433762
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 857433764}
+  - component: {fileID: 857433763}
+  m_Layer: 0
+  m_Name: ArtCollection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &857433763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 857433762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98643502577f6704aafdb180db1c448f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectibleList:
+  - {fileID: 11400000, guid: 9fc3f74cd72c291498470a148139e515, type: 2}
+  - {fileID: 11400000, guid: 313f5adabaff35740abcb30dc8822279, type: 2}
+  - {fileID: 11400000, guid: d84397a273c2c8647831aa98fbec1ad7, type: 2}
+--- !u!4 &857433764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 857433762}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.09144154, y: 1.6194149, z: 4.2875137}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1170515828
 GameObject:
   m_ObjectHideFlags: 0
@@ -514,19 +561,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98643502577f6704aafdb180db1c448f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  singleString: Burger
-  collectionList:
-  - pizza
-  - fries
-  - tacos
-  - soda
-  - shake
-  - chips
-  gameObjectList:
-  - {fileID: 679221526}
-  - {fileID: 1256241549}
-  - {fileID: 3865222}
-  - {fileID: 83177487}
+  collectibleList: []
 --- !u!4 &1170515830
 Transform:
   m_ObjectHideFlags: 0
@@ -628,7 +663,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1256241549}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.09144154, y: 1.6194149, z: 4.2875137}
+  m_LocalPosition: {x: 10.3, y: 1.6194149, z: 4.2875137}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
