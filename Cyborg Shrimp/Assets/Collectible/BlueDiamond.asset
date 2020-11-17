@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f977ad5b7e3ac0b40b5fdbd992dd8dec, type: 3}
-  m_Name: RedCube
+  m_Name: BlueDiamond
   m_EditorClassIdentifier: 
-  powerLevel: 1
-  cashValue: 1
-  artColor: {r: 1, g: 0, b: 0, a: 1}
-  art: {fileID: 21300000, guid: a43138f7d0de34543a8328889dba59de, type: 3}
+  powerLevel: 100
+  cashValue: 300
+  artColor: {r: 0, g: 0, b: 1, a: 1}
+  art: {fileID: 21300000, guid: 7b19987249429264384d0fdbfa358677, type: 3}

@@ -73,9 +73,9 @@
         <option value="$PROJECT_DIR$/Assets/Script/GameSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/GameSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/AIBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Collections.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/Collectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Collections.cs" />
       </list>
     </option>
   </component>
@@ -138,7 +138,8 @@
       <workItem from="1604782463665" duration="1329000" />
       <workItem from="1605044722531" duration="1655000" />
       <workItem from="1605217627202" duration="1361000" />
-      <workItem from="1605411071373" duration="1714000" />
+      <workItem from="1605411071373" duration="2310000" />
+      <workItem from="1605626097865" duration="1074000" />
     </task>
     <servers />
   </component>
