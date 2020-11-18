@@ -72,10 +72,10 @@
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/StringListData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/GameSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/GameSwitch.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/AIBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/Collectible.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Collections.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AIBehavior.cs" />
       </list>
     </option>
   </component>
@@ -139,7 +139,8 @@
       <workItem from="1605044722531" duration="1655000" />
       <workItem from="1605217627202" duration="1361000" />
       <workItem from="1605411071373" duration="2310000" />
-      <workItem from="1605626097865" duration="1074000" />
+      <workItem from="1605626097865" duration="1672000" />
+      <workItem from="1605649412660" duration="211000" />
     </task>
     <servers />
   </component>

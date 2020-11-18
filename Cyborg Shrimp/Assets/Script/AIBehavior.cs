@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -8,8 +9,9 @@ public class AIBehavior : MonoBehaviour
 {
 
     private NavMeshAgent agent;
-    public Transform player;
+    private Transform destination;
 
+    public List<Transform> patrolPoints;
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();
