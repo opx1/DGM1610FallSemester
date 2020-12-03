@@ -15,10 +15,26 @@ public class AIBehavior : MonoBehaviour
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();
+        destination = transform;
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        destination = other.transform;
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        destination = Patrol();
+    }
+
+    private Transform Patrol()
+    {
+        return transform;
     }
 
     private void Update()
     {
-        agent.destination = player.position;
+        agent.destination = destination.position;
     }
 }
