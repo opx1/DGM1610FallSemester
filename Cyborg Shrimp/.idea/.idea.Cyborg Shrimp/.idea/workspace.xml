@@ -31,6 +31,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/LevelLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/TriggerEventsBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -65,7 +66,6 @@
         <option value="$PROJECT_DIR$/Assets/Script/TriggerEventsBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ImageBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/StringData.cs" />
@@ -84,6 +84,9 @@
         <option value="$PROJECT_DIR$/Assets/Script/SceneController.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ChangeScene.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DontDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/MonoEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObjects/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScriptableObjects/LevelLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/World.cs" />
       </list>
     </option>
@@ -154,6 +157,8 @@
       <workItem from="1606975279377" duration="2459000" />
       <workItem from="1607044409497" duration="11268000" />
       <workItem from="1607139988246" duration="38000" />
+      <workItem from="1607446693361" duration="1988000" />
+      <workItem from="1607577863956" duration="4765000" />
     </task>
     <servers />
   </component>
