@@ -29,17 +29,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Script/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/LevelLoader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/TriggerEventsBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Instancer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AmmoPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScriptableObjects/StringData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/World.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/Instancer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ChargePowerUP.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/RockGravity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -64,7 +67,6 @@
         <option value="$PROJECT_DIR$/Assets/DND/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/DND/Fighter.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/TriggerEventsBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/ImageBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/IntData.cs" />
@@ -88,6 +90,8 @@
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/Vector3Data.cs" />
         <option value="$PROJECT_DIR$/Assets/ScriptableObjects/LevelLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/World.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/RockGravity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CharacterMover.cs" />
       </list>
     </option>
   </component>
@@ -159,6 +163,7 @@
       <workItem from="1607139988246" duration="38000" />
       <workItem from="1607446693361" duration="1988000" />
       <workItem from="1607577863956" duration="4765000" />
+      <workItem from="1607831997615" duration="2308000" />
     </task>
     <servers />
   </component>

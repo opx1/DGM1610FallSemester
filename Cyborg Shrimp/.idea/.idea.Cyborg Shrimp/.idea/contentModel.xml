@@ -22,6 +22,7 @@
           <e p="MoverScript.cs" t="Include" />
           <e p="PlayerHealth.cs" t="Include" />
           <e p="PlayerScore.cs" t="Include" />
+          <e p="RockGravity.cs" t="Include" />
           <e p="SceneChanger.cs" t="Include" />
           <e p="SceneController.cs" t="Include" />
           <e p="TriggerEventsBehavior.cs" t="Include" />

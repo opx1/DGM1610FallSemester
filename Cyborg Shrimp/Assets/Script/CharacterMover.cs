@@ -10,6 +10,7 @@ public class CharacterMover : MonoBehaviour
     public float moveSpeed = 3f, gravity = -9.81f, jumpForce = 30f;
     private Vector3 moveDirection;
     private float yDirection;
+    public GameObject projectilePrefab;
 
     private void Start()
     {
@@ -36,5 +37,12 @@ public class CharacterMover : MonoBehaviour
         } 
         
         controller.Move(moveDirection * Time.deltaTime);
+        
+        if (Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
+        }
+       
+        
     }
 }
